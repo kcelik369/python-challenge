@@ -1,1 +1,1 @@
-# python-challenge
+Running the "main.py" files in the "PyBank" and "PyPoll" folders will produce the output relevant for the module. The answers will print in the terminal and in the "analysis.txt" file found in the "Analysis" folder in each sub-folder.
